@@ -33,8 +33,8 @@
 
 ### 📊 GitHub İstatistikleri
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=emrhnyz&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=emrhnyz&show_icons=true&theme=tokyonight" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emrhnyz&theme=tokyonight" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=emrhnyz&theme=tokyonight" />
 </p>
