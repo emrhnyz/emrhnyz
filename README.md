@@ -32,9 +32,16 @@
 ---
 
 ### 📊 GitHub İstatistikleri
+
 <p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=emrhnyz&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=emrhnyz&show_icons=true&theme=tokyonight" alt="stats"/>
 </p>
+
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=emrhnyz&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=emrhnyz&theme=tokyonight" alt="streak"/>
 </p>
+
+<p align="left">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=emrhnyz&layout=compact&theme=tokyonight" alt="top langs"/>
+</p>
+
