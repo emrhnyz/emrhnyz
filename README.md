@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 Hakkımda
-- 🎓 Halen **Kütahya Dumlupınar Üniversitesi** öğrencisiyim.  
+- 🎓 **Kütahya Dumlupınar Üniversitesi** öğrencisiyim.  
 - 🔧 **Diller:** C, C++, C#, Python  
 - 🔌 **Gömülü Sistemler:** ESP32, Arduino, STM32  
 - 🌐 **Web3 & Blockchain:** yeni nesil teknolojiler, akıllı sözleşmeler ve topluluk çalışmaları  
