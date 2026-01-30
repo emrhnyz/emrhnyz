@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm Emirhan Yıldız 👋</h1>
 <p align="center">
   I'm an Electrical & Electronics Engineering student at Kütahya Dumlupınar University.<br/>
-  I'm interested in embedded systems, software development, and the Web3 ecosystem
+  I'm interested in embedded systems, software development, and the Web3 ecosystem.
 </p>
 
 ---
