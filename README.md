@@ -25,7 +25,7 @@
 ### 🛠️ Interests
 - ⚡ **Embedded Systems** → sensors, motors, and IoT projects with ESP32, Arduino, and STM32  
 - 🤝 **Software Development** → bots with Python, automation scripts, desktop applications  
-- 🌍 **Web3 & Blockchain** → following new networks, testnet tasks, community contributions  
+- 🌍 **Web3 & Blockchain** → blockchain networks, ecosystems, community contributions
 - 🎮 **Games & Apps** → 2D projects in Unity, simple game prototypes  
 
 ---
