@@ -25,7 +25,7 @@
 ### 🛠️ İlgi Alanlarım
 - ⚡ **Gömülü Sistemler** → ESP32, Arduino, STM32 ile sensörler, motorlar ve IoT projeleri  
 - 🤝 **Yazılım Geliştirme** → Python ile botlar, otomasyon scriptleri, masaüstü uygulamaları  
-- 🌍 **Web3 & Blockchain** → yeni nesil ağları takip etme, testnet görevleri, topluluk katkıları  
+- 🌍 **Web3 & Blockchain** →  blockchain ağları, ekosistemler, topluluk katkıları
 - 🎮 **Oyun & Uygulama** → Unity ile 2D projeler, basit oyun prototipleri  
 
 ---
